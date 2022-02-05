@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @kidsavagez
+- 👀 I’m interested in IoT Programming
+- 🌱 I’m currently learning Web3
