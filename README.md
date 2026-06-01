@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @kidsavagez
-- 👀 I’m interested in IoT Programming
-- 🌱 I’m currently learning Web3
+- 👀 I’m currently learning Vibe coding with an interest in AI Automation
